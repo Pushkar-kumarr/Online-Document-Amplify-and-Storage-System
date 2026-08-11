@@ -211,5 +211,6 @@ This project is licensed under the MIT License.
 ---
 
 <div align="center">
-Built with ❤️ using AWS Amplify
+Built with ❤️ using AWS Amplify , Your Feedback are always Welcome , Thanks ~~
+                         Pushkar ..hehe..  Byy
 </div>
